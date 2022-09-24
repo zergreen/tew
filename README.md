@@ -7,6 +7,5 @@
 
 # Special Thanks
 pond
-green @zergreen
-and you...
+
 
