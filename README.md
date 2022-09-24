@@ -1,5 +1,5 @@
 # Tew
-![exam-homer](http://https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
+![exam-homer](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
 จัดทำขึ้นเพื่อเป็นแนวให้ทุกคน โฟกัสข้อสอบในรายวิชาได้มากขึ้น
 
 # Note
