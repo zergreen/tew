@@ -6,6 +6,6 @@
 ถ้ามีเนื้อหาผิดผลาดตรงส่วนไหน บอกได้เลย นะเดียวเรา แก้ละอัพขึ้นไปให้ใหม่
 
 # Special Thanks :pray:
-pond for [datacom.pdf](https://github.com/zergreen/tew/blob/master/year3/datacom_note.pdf) and [IM.pdf](https://github.com/zergreen/tew/blob/master/year3/IM_note.pdf)
+ปอนด์ for [datacom.pdf](https://github.com/zergreen/tew/blob/master/year3/datacom_note.pdf) and [IM.pdf](https://github.com/zergreen/tew/blob/master/year3/IM_note.pdf)
 
 
